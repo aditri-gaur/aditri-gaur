@@ -31,4 +31,3 @@ Long term, I'm especially interested in the intersection of:
 
 Thanks for stopping by! ⭐
 
-e `git push` at a time.* 😭💻
