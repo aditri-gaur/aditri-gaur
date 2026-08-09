@@ -1,96 +1,34 @@
 # Hi there, I'm Aditri! 👋
 
-### 💻 CSE Cyber Security Student | Builder | Curious Mind
+💻 **B.Tech CSE student specializing in Cyber Security**
 
-I'm a B.Tech Computer Science student specializing in **Cyber Security**, currently exploring pretty much everything that makes technology interesting to me.
+I'm currently exploring **Python, C, AI, automation, web development, databases, and cybersecurity**. I enjoy learning by actually building things, experimenting with new tools, and figuring out why something works — or why it absolutely refuses to. 😭
 
-I started with programming and slowly found myself getting interested in **AI, automation, web development, databases, and cybersecurity**. I don't really like learning something just for the sake of knowing it — I prefer building something with it and figuring things out along the way.
+### 🌱 Currently Learning
 
-Some projects work. Some don't. Some start as a simple idea and somehow turn into a much bigger project. 😭
-But that's kind of the point — **learn, build, break, fix, repeat.**
+* 🔐 Cybersecurity & Ethical Hacking
+* 🤖 AI & AI-powered applications
+* ⚙️ Automation & APIs
+* 🌐 Web Development
+* 🐍 Python & C
+* 🗄️ SQL & Databases
 
----
+### 🛠️ What I Build
 
-## 🚀 What I'm Currently Doing
+You'll find a mix of **coding projects, websites, AI experiments, automation workflows, database projects, and random ideas I've decided to turn into something real.**
 
-* 🌱 Learning and strengthening my **Python & C** fundamentals
-* 🔐 Exploring **Cybersecurity & Ethical Hacking**
-* 🤖 Experimenting with **AI & AI-powered applications**
-* ⚙️ Building **automation workflows** and learning how to automate repetitive tasks
-* 🌐 Exploring **Web Development & deployment**
-* 🗄️ Working with **SQL & databases**
-* 🧠 Learning how different technologies connect together to build real applications
-* 🛠️ Turning random ideas into small projects instead of leaving them as ideas
+Not everything here is perfect, and that's intentional. I'm using GitHub to document the things I build, the things I break, and everything I learn while figuring them out.
 
----
+### 🎯 What I'm Working Towards
 
-## 🧰 Tech I'm Exploring
+I'm working towards a strong foundation in **Computer Science and Cybersecurity**, while exploring how **AI and automation** can be used to solve real-world problems.
 
-**Languages**
+Long term, I'm especially interested in the intersection of:
 
-`Python` `C` `SQL` `HTML` `CSS` `JavaScript`
+**🔐 Cybersecurity × 🤖 AI × ⚙️ Automation × 💻 Software Development**
 
-**AI & Automation**
+> **Learn → Build → Break → Fix → Repeat.**
 
-`AI Tools` `Prompt Engineering` `Automation` `APIs` `RAG`
+Thanks for stopping by! ⭐
 
-**Web & Development**
-
-`Flask` `Django` `React` `Git` `GitHub`
-
-**Cybersecurity**
-
-`Networking` `Linux` `Ethical Hacking` `TryHackMe`
-
-I'm still learning most of these, so this list is more of a **"things I'm exploring"** list than a "look at everything I master" list. 😅
-
----
-
-## 📂 What You'll Find Here
-
-You'll probably find a mixture of:
-
-* 🐍 Python projects
-* 💻 C programs and practice
-* 🌐 Websites and web applications
-* 🤖 AI experiments
-* ⚙️ Automation projects
-* 🔐 Cybersecurity learning & experiments
-* 🗄️ Database projects
-* 🧪 Random experiments because I wanted to see if something could be built
-
-Not everything here is going to be perfect — and that's intentional.
-
-This GitHub is basically a record of **what I'm learning, what I'm building, and how I'm improving over time.**
-
----
-
-## 🎯 What I'm Working Towards
-
-I want to build a strong foundation in **Computer Science and Cybersecurity**, while also understanding how AI and automation can be used to solve actual problems.
-
-Long term, I'm interested in working at the intersection of:
-
-**Cybersecurity × AI × Automation × Software Development**
-
-There's still a *lot* I don't know, and honestly, that's what makes it interesting.
-
----
-
-## 📈 My Learning Philosophy
-
-> **Don't just watch tutorials. Build something. Break it. Fix it. Understand why it broke. Then build something better.**
-
-That's pretty much how I'm approaching my learning journey.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in meeting people who are learning, building, experimenting, or simply curious about technology.
-
-If you're working on something interesting, feel free to reach out or check out my repositories.
-
-**Thanks for stopping by! ⭐**
-
-*One project at a time. One bug at a time. One `git push` at a time.* 😭💻
+e `git push` at a time.* 😭💻
